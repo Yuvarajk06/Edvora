@@ -43,6 +43,11 @@ class Home extends React.Component {
 				},
 				inputLabel: {
 					color: "black",
+          display: "flex",
+          height: "100%",
+          fontWeight: "600",
+          justifyContent: "center",
+          alignItems: "center",
 					fontSize: "14px",
 				},
 			},
